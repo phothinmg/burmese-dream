@@ -1,7 +1,7 @@
 # Burmese Dream - Preact
 
 
-### This repository is a my learning resource for  Preact.
+### My learning resource for  Preact.
 
 ---
 
