@@ -1,0 +1,68 @@
+
+.dream-select{
+    width: 150px;
+    font-weight: bolder;
+    font-family: burmese !important;
+    color: var(--text);
+    text-align: center;
+    font-size: large;
+    border: 2px solid #673ab8;
+    background-color: black;
+    padding: 3px;
+    border-radius: 5px;
+}
+.dream-summary{
+    font-weight: bolder;
+    color: var(--accent);
+}
+
+.dream-ol {
+    padding: 20px;
+    list-style: inside;
+  }
+  
+  .dream-ol li {
+    counter-increment: step-counter;
+    position: relative;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+  }
+
+.dream-button{
+    margin-right: 10px;
+    border: 2px solid #673ab8;
+    width: 50px;
+    height: 50px;
+    font-size: medium;
+    color: var(--text);
+    background-color: black;
+    padding: 5px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+}
+.dream-button:hover{
+    border: 2px solid var(--border);
+    cursor: pointer;
+    background-color: var(--bg);
+
+}
+
+.dream-input {
+    width: 200px;
+    font-weight: bold;
+    font-size: medium;
+    background-color: black;
+    color: var(--text);
+    border: 2px solid #673ab8;
+    border-radius: 5px;
+    min-height: 25px;
+  }
+
+.rc{
+    width: auto;
+    padding: 10px;
+    border: 2px solid #673ab8;
+}
+  
+

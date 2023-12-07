@@ -1,0 +1,22 @@
+{
+	"name": "burmese-dream-preact",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "My learning resource for  Preact",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"preact": "^10.13.1",
+		"preact-iso": "^2.3.2",
+		"preact-render-to-string": "^6.3.1"
+	},
+	"devDependencies": {
+		"@preact/preset-vite": "^2.5.0",
+		"typescript": "^5.3.2",
+		"vite": "^4.3.2"
+	},
+	"author": "Pho Thin Maung"
+}

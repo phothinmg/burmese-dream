@@ -1,0 +1,8 @@
+<svg class="svg-icon" style="width: 1em;height: 1em;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<style>
+    path{
+    fill:#fff;
+    }
+</style>
+<path d="M512 16C238 16 16 238 16 512s222 496 496 496 496-222 496-496S786 16 512 16z m0 896c-221 0-400-179-400-400S291 112 512 112s400 179 400 400-179 400-400 400z m-64-632v232h-134c-21.4 0-32 25.8-17 41l198 198c9.4 9.4 24.6 9.4 34 0l198-198c15.2-15.2 4.4-41-17-41h-134V280c0-13.2-10.8-24-24-24h-80c-13.2 0-24 10.8-24 24z"  />
+</svg>
